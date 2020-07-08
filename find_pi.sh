@@ -1,7 +1,7 @@
 #!/bin/sh
 
 device_name="Raspberry Pi"	# Name of the Raspberry Pi to search for
-mask_inc=32					# How many IPs nmap should scan at a time
+mask_inc=32			# How many IPs nmap should scan at a time
 base_ip="192.168.0."		# IPs to scan over (0 to 255 will be appended to the end)
 
 pi_scan () {
