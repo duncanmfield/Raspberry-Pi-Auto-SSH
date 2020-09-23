@@ -1,4 +1,4 @@
-# Raspberry-Pi-Auto-SSH
+# raspberry-pi-auto-ssh
 A shell script to scan the local network for a Raspberry Pi and SSH in
 
 # Basic usage
